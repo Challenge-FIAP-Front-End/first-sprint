@@ -8,3 +8,8 @@ Leonardo Salazar - RM557484
 
 Trabalho de Front-end do Challenge
 
+Acesso Figma ( Conta Google ):
+
+jfiap2024@gmail.com
+senhaJFiAp
+
