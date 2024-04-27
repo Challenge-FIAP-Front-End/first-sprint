@@ -13,5 +13,3 @@ Acesso Figma ( Conta Google ):
 jfiap2024@gmail.com
 
 senhaJFiAp
-
-a\fddsgagafdfgafgasdsgafdsgafdsgdasgda
