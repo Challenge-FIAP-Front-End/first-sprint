@@ -17,23 +17,7 @@ body {
     text-align: center;
 }
 
-.nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #fbfbfb;
-    padding: 10px 0;
-}
 
-.nav a {
-    color: #008BCE;
-    text-decoration: none;
-    padding: 5px 10px;
-}
-
-.nav a:hover {
-    background-color: #555;
-}
 
 .search-container {
     display: flex;
@@ -115,4 +99,18 @@ body {
 .round-img {
     width: 157px;
     height: 144px;
+}
+@media (max-width:768px){
+    .services{
+        flex-direction: column;
+    }
+  }
+  .menu-mobile span {
+	display: block;
+	width: 33px;
+	height: 4px;
+	margin-bottom: 5px;
+	position: relative;
+	background: rgb(0, 0, 0);
+	border-radius: 3px;
 }
