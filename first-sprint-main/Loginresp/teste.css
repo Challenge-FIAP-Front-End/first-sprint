@@ -103,11 +103,11 @@
       }
   
     .form-input label, .form-field label {
-      width: auto; /* Ajusta a largura do rótulo */
+      width: auto; 
      }
   
     .logo-container img {
-      width: 80%; /* Ajusta a largura do logotipo */
+      width: 80%;
     }
   }
   
