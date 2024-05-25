@@ -111,7 +111,7 @@
     }
   }
   
-  /* Estilos para telas ainda menores */
+  /* Ajuste para responsividade */
   @media (max-width: 480px) {
     .form-input img {
       width: 24px; /* Retorna ao tamanho original do ícone */
